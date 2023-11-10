@@ -16,6 +16,14 @@ export const projects = [
     link: "https://aamerov-twitter-clone.netlify.app",
   },
   {
+    image: "/images/HooBankAI.png",
+    date: "Nov 5, 2023",
+    title: "HooBank",
+    description:
+      "HooBank Mockup Website to implemented wtih React.js Using Vite.js and ALong with Tailwind CSS for various CSS design styles and features",
+    link: "https://aamer-responsive-site.netlify.app",
+  },
+  {
     image: "/images/Appie.png",
     date: "Jan 19, 2023",
     title: "Appie",
@@ -48,14 +56,7 @@ export const projects = [
     link: "https://aamerov-kanban-v2.netlify.app",
   },
 
-  {
-    image: "/images/HooBankAI.png",
-    date: "Nov 5, 2023",
-    title: "HooBank",
-    description:
-      "HooBank Mockup Website to implement various CSS design styles and features",
-    link: "https://aamer-responsive-site.netlify.app",
-  },
+  
   {
     image: "/images/UnitConverter.png",
     date: "Sep 26, 2023",
